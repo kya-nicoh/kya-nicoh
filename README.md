@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I love to sketch and write from time to time**
 
+<!-- My Projects and Experiences -->
+
+<!-- Certifications and Relevant Seminars/Webinars/Training -->
+
 <h3 align="left">Languages and Tools:</h3>
 <!--
 <p align="center"> 
